@@ -27,6 +27,8 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
+![Parstagram(Part1)](https://user-images.githubusercontent.com/78000116/153170658-fc415832-04f9-43b9-97cb-2447c11ed354.gif)
+
 
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).

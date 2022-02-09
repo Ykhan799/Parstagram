@@ -33,7 +33,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+The only challenge I had was setting up Parse in Android Studio. I kept getting an i/o error but I fixed it by uninstalling and reinstalling the Parstagram app. 
 
 ## Open-source libraries used
 
